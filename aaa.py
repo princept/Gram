@@ -1,1 +1,3 @@
-test
+git config --global --list 
+
+
